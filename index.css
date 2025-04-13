@@ -1,0 +1,10 @@
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #f0fdf4;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
